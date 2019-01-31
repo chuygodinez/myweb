@@ -60,12 +60,14 @@ h6 {
 
 .bottomcloud {
   position: relative;
-  right: 235px;
+  left: 91px;
+  bottom: 302px;
 }
 
 .montana {
   position: relative;
   top: 7px;
+  right: 65px;
 }
 
 .profile {
