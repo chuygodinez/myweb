@@ -117,11 +117,11 @@
                 </tr>
                 <tr>
                   <td>HTML5</td>
-                  <td>★★★☆☆</td>
+                  <td>★★★★☆</td>
                 </tr>
                 <tr>
                   <td>CSS</td>
-                  <td>★☆☆☆☆</td>
+                  <td>★★★★☆</td>
                 </tr>
                 <tr>
                   <td>JAVASCRIPT</td>
