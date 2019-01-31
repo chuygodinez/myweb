@@ -1,0 +1,156 @@
+/******************TAG SELECTORS******************/
+body {
+  background-color: #ebf0f6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Kalam', sans-serif;
+  margin-bottom: 0;
+  font-size: 3rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Kalam', sans-serif;
+  padding: 20px;
+  margin: auto;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Kalam', sans-serif;
+  margin: 20px;
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+a {
+color: #66BFBF;
+}
+
+hr {
+  border-color: white;
+  border-width: 10px;
+  border-style: dotted;
+  border-top: none;
+  width: 10%;
+}
+
+h6 {
+  margin: auto;
+}
+/******************CLASS SELECTORS******************/
+
+.top-container {
+  background-color: #5893d4;
+}
+
+.topcloud {
+  position: relative;
+  left: 224px;
+  top: 20px;
+}
+
+.bottomcloud {
+  position: absolute;
+  top: 261px;
+}
+
+.montana {
+  position: relative;
+  top: 7px;
+}
+
+.profile {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.risa {
+  height: 200px;
+  width: 200px;
+}
+
+.exp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
+}
+
+.exp-image{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 17px;
+}
+
+.exp-table {
+  display: -webkit-inline-box;
+  text-align: left;
+}
+
+.skills {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.skills-pic {
+  width: 20%;
+}
+
+.skills-table {
+  display: -webkit-box;
+}
+
+.contact-me {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
+}
+
+.boton-contact {
+  background: #55e0e0;
+  background-image: linear-gradient(to bottom, #55e0e0, #66BFBF);
+  border-radius: 13px;
+  font-family: 'Kalam', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 5px;
+  text-decoration: none;
+}
+
+.boton-contact:hover {
+  background: #60dede;
+  background-image: linear-gradient(to bottom, #60dede, #3beded);
+  text-decoration: none;
+}
+
+.contact-pic {
+    height: 200px;
+    width: 200px;
+}
+
+.contact-table {
+    text-align: justify;
+    padding-bottom: 20px;
+    font-size: large;
+}
+
+.link-pic {
+  width: 10%;
+}
+
+.bottom-container {
+  padding: 20px 0;
+}
+
+
+
+/******************ID SELECTORS******************/
