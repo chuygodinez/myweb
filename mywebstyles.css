@@ -59,8 +59,8 @@ h6 {
 }
 
 .bottomcloud {
-  position: absolute;
-  top: 261px;
+  position: relative;
+  right: 235px;
 }
 
 .montana {
